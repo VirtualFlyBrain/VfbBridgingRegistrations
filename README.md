@@ -17,4 +17,4 @@ Court2017 was the original standard bein used in the preprint (https://www.biorx
 
 [VFB](https://VirtualFlyBrain.org) provides downloads of all templates it uses directly on the site.
 
-Templates as well as painted domains are available in the VirtualFlyBrain/DrosAdultVNSdomains repo  
+Templates as well as painted domains are available in the https://github.com/VirtualFlyBrain/DrosAdultVNSdomains repo  

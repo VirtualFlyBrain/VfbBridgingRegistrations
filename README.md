@@ -16,7 +16,7 @@ Details of the JRC2018 templates are available here: https://www.janelia.org/ope
 
 Court2017 (512x1024x270 - XY0.4612588 Z0.46) was generated in http://hdl.handle.net/1842/25704 and was the original standard bein used in the preprint (https://www.biorxiv.org/content/10.1101/122952v1) 
 
-Court2018 (512x1024x220 - XY0.4612588 Z0.7) was a symetrical version of Court2017 and was used as the original template on [VFB](https://virtualflybrain.org/reports/VFB_00100000)
+Court2018 (512x1024x220 - XY0.4612588 Z0.7) was a symetrical version of Court2017 and was used as the original VNS template on [VFB](https://virtualflybrain.org/reports/VFB_00100000)
 
 [VFB](https://VirtualFlyBrain.org) provides downloads of all templates it uses directly on the site.
 

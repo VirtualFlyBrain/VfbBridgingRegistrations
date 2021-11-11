@@ -22,8 +22,8 @@ Court2018 (512x1024x220 - XY0.4612588 Z0.7) was a symetrical version of Court201
 
 Templates as well as painted domains are available in the [VirtualFlyBrain/DrosAdultVNSdomains](https://github.com/VirtualFlyBrain/DrosAdultVNSdomains) repo  
 
-## Navis (Python)
-There registrations are loaded into navis via the [navis-flybrains](https://github.com/navis-org/navis-flybrains) repo.
+## [Navis](https://github.com/schlegelp/navis) (Python)
+There registrations are loaded into [navis](https://github.com/schlegelp/navis) via the [navis-flybrains](https://github.com/navis-org/navis-flybrains) library.
 
 ### Installation
 You can install `flybrains` from PyPI:

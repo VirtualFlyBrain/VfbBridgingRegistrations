@@ -11,7 +11,7 @@ Details of the JRC[VNC]2018 templates are available here: https://www.janelia.or
   - JRCVNC2018F (660x1342x358 XYZ0.4)
   - JRCVNC2018M (659x1342x401 XYZ0.4)
 
-Court2017 (512x1024x270 - XY0.4612588 Z0.46) was generated in http://hdl.handle.net/1842/25704 and was the original standard bein used in the preprint (https://www.biorxiv.org/content/10.1101/122952v1) 
+Court2017 (512x1024x270 - XY0.4612588 Z0.46) was generated in http://hdl.handle.net/1842/25704 and was the original standard used in the preprint (https://www.biorxiv.org/content/10.1101/122952v1) 
 
 Court2018 (512x1024x220 - XY0.4612588 Z0.7) was a symetrical version of Court2017 and was used as the original VNS template on [VFB](https://virtualflybrain.org/reports/VFB_00100000)
 

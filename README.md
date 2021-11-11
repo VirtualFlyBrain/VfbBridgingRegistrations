@@ -1,5 +1,7 @@
-# BridgingRegistrations
-Bridging registrations to convert between different _Drosophila_ template brains:
+# Bridging Registrations
+Bridging registrations to convert between different _Drosophila_ template brains. This is not intended as a complete list or all available simply the ones that are currently not available elsewhere so please use via the python (navis) or R (nat) resources below as they combine all available sources together.
+
+## Ventral Nerve Cord (VNC)/Ventral Nervious System (VNS) template bridges
 
 - JRCVNC2018U_JRCVNC2018U: JRC2018-VNC-UNISEX-4iso -> JRC2018-VNC-FEMALE-4iso
 - JRCVNC2018M_JRCVNC2018U: JRC2018_VNC_MALE_4iso -> JRC2018_VNC_UNISEX_4iso

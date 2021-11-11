@@ -1,13 +1,13 @@
 # BridgingRegistrations
 Bridging registrations to convert between different Drosophila template brains:
 
-- JRC2018VNCU_JRC2018VNCU: JRC2018-VNC-UNISEX-4iso -> JRC2018-VNC-FEMALE-4iso
+- JRCVNC2018U_JRCVNC2018U: JRC2018-VNC-UNISEX-4iso -> JRC2018-VNC-FEMALE-4iso
 
-- JRC2018VNCM-JRC2018VNCU: JRC2018_VNC_MALE_4iso -> JRC2018_VNC_UNISEX_4iso
+- JRCVNC2018M-JRCVNC2018U: JRC2018_VNC_MALE_4iso -> JRC2018_VNC_UNISEX_4iso
 
-- COURT2017VNS-JRC2018VNCF: DrosAdultVNSdomains_Court2017_template_Neuropil_LPS -> JRC2018_VNC_FEMALE_4iso_LPS
+- COURT2017VNS-JRCVNC2018F: DrosAdultVNSdomains_Court2017_template_Neuropil_LPS -> JRC2018_VNC_FEMALE_4iso_LPS
 
-- ITO2017VNCF-JRC2018VNCU: 20x_flyVNCtemplate_Female_symmetric -> JRC2018_VNC_UNISEX_4iso
+- ITO2017VNCF-JRCVNC2018U: 20x_flyVNCtemplate_Female_symmetric -> JRC2018_VNC_UNISEX_4iso
 
 Details of the JRC2018 templates are available here: https://www.janelia.org/open-science/jrc-2018-brain-templates 
 

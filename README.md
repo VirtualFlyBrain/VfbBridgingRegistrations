@@ -1,5 +1,5 @@
 # Bridging Registrations
-Bridging registrations to convert between different _Drosophila_ template brains. This is not intended as a complete list or all available to VFB but simply the registrations that are not currently publicly available elsewhere. Please use via the python (navis) or R (nat) resources below as they combine all available sources together.
+Bridging registrations to convert between different _Drosophila_ template brains. This is not intended as a complete list or all available to VFB but simply the registrations that are not currently publicly available elsewhere. Please use via the python ([navis](https://github.com/schlegelp/navis)) or R ([nat](https://natverse.org/)) resources below as they combine all available sources together.
 
 ## Ventral Nerve Cord (VNC)/Ventral Nervious System (VNS) template bridges
 

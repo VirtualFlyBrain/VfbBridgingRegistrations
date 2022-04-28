@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 14083.8000000000
+time_total 31084.9200000000
+walltime_level 1542.0000000000
+walltime_total 3466.0000000000
+thread_time_level 14083.8000000000
+thread_time_total 31084.9200000000
+number_of_threads 12
+number_of_cpus 12
+host "Robbies-MacBook-Pro.local"
+system "Darwin"

@@ -3,11 +3,11 @@ Bridging registrations to convert between different _Drosophila_ template brains
 
 ## Ventral Nerve Cord (VNC)/Ventral Nervious System (VNS) template bridges
 
-- JRCVNC2018U_JRCVNC2018U: JRC2018-VNC-UNISEX-4iso -> JRC2018-VNC-FEMALE-4iso
-- JRCVNC2018M_JRCVNC2018U: JRC2018_VNC_MALE_4iso -> JRC2018_VNC_UNISEX_4iso
 - JRC40xVNC2018U_JRCVNC2018U: JRC2018_VNC_Unisex_40x_DS -> JRC2018_VNC_UNISEX_4iso
 - COURT2017VNS_JRCVNC2018F: DrosAdultVNSdomains_Court2017_template_Neuropil_LPS -> JRC2018_VNC_FEMALE_4iso_LPS
 - COURT2018VNS_JRCVNC2018U: 20x_flyVNCtemplate_Female_symmetric -> JRC2018_VNC_UNISEX_4iso
+
+Note: JRCVNC2018 bridging alignments are now available direct from Janelia: https://www.janelia.org/open-science/jrc-2018-brain-templates 
 
 Details of the JRC[VNC]2018 templates are available here: https://www.janelia.org/open-science/jrc-2018-brain-templates 
   - JRCVNC2018U (660x1290x382 XYZ0.4)
